@@ -17,6 +17,5 @@ public class SimpleServlet extends HttpServlet {
         //printing on web server
         out.println("<h3>Hello World Archana Trying again!</h3>");
         out.close();
-
     }
 }
